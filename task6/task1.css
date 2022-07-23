@@ -1,0 +1,12 @@
+body{
+    background-color:black;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+}
+input[type=text],input[type=tel],input[type=password]{
+    background-color: rgb(0, 0, 0) (72, 226, 72);
+}
+.container{
+    border:5px:solid red
+}

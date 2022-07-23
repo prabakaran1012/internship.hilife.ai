@@ -1,0 +1,12 @@
+*{
+    background-color: brown;
+}
+#tx2{
+    filter: blur(5px);
+}
+#tx3{
+    filter: opacity(0.3);
+}
+#tx4{
+    border: 5px solid green;
+}
